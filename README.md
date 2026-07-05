@@ -50,7 +50,7 @@ cloud-security-scanner/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/cloud-security-scanner.git
+   git clone https://github.com/Jayasri1709/cloud-security-scanner.git
    cd cloud-security-scanner
    ```
 
